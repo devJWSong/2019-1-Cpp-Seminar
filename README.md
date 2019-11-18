@@ -1,4 +1,4 @@
-# 2019-1-Cpp-Seminar
+# 2019-1-cpp-seminar
 2019-1 PoolC C++ Seminar
 
 - Introduction: Practice code for 2019-1 PoolC C++ Seminar
